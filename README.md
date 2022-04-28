@@ -1,3 +1,12 @@
+
+	```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
 # Dio-desadio-GitHub
 Desafio de Projeto de GitHub da Dio
 
