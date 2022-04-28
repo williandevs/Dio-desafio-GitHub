@@ -3,7 +3,7 @@
 # Dio-desadio-GitHub
 Desafio de Projeto de GitHub da Dio
 
-## Me conheça melhor, atraves dos links:
+## Minhas outras redes sociais.😊
 
 [Portfólio](https://williamdev.com.br/)
 
