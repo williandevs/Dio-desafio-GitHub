@@ -1,6 +1,6 @@
 
 
-# Dio-desadio-GitHub
+# Dio-desafio-GitHub
 Desafio de Projeto de GitHub da Dio
 
 ## Minhas outras redes sociais.😊
